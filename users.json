@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "avatar": "../assets/avatar/small/jenny.jpg",
+    "avatar": "jenny.jpg",
     "name": "Leanne Graham",
     "username": "Bret",
     "email": "Sincere@april.biz",
