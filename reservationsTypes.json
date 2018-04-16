@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Loisir",
+    "color": "yellow"
+ },
+ {
+    "id": 1,
+    "name": "Entrainement",
+    "color": "blue"
+ },
+ {
+    "id": 2,
+    "name": "Championnat équipe",
+    "color": "orange"
+ },
+ {
+    "id": 3,
+    "name": "Championnat individuel",
+    "color": "red"
+ }
+]
